@@ -1,6 +1,6 @@
-# AUTOCOMB
+# AUTOCOMBER
 
-Automatically generate combs for your programs. No more manually creating custom icons for your whatever the fuck program and no need to fuck around with electron apps like Discord `--processStart Discord.exe` stfu we copying the .lnk from Start Menu!!!
+Automatically generate combs for your programs. No more manually creating custom icons for your whatever program and no need to play around with electron apps like Discord `--processStart Discord.exe` sybau we copying the .lnk from Start Menu!!!
 
 # Features
 
@@ -40,7 +40,7 @@ Autocombs are automatically generated. Every comb is wiped and re-generated when
 
 Yes but Autocomb is an interesting project. And I like doing things better than other people :3
 
-# TODO: 
+# REISIR'S WISHES: 
 
 Please for the love of god can someone PR these in thanks
 
