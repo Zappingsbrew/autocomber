@@ -10,14 +10,6 @@ Automatically generate combs for your programs. No more manually creating custom
 
 # Installation
 
-Install using [Meters on Demand](https://github.com/meters-on-demand/cli):
-
-```
-mond install reisir/autocomb
-```
-
-# Manual installation
-
 1. Install [Rainmeter](https://rainmeter.net)
 2. Download the [latest release of Autocomb](https://github.com/reisir/autocomb/releases)
 3. Install the .rmskin
@@ -32,7 +24,7 @@ Whenever you install a new application, you can load the main Autocomb skin and 
 
 # F.A.Q.
 
-## I edited an autocomb but all my changes dissapeared??
+## I edited an autocomb but all my changes disappeared?
 
 Autocombs are automatically generated. Every comb is wiped and re-generated whenever you load Autocomb.ini. You're not supposed to edit the generated files by hand.
 
