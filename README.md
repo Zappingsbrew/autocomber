@@ -11,7 +11,7 @@ Automatically generate combs for your programs. No more manually creating custom
 # Installation
 
 1. Install [Rainmeter](https://rainmeter.net)
-2. Download the [latest release of Autocomb](https://github.com/reisir/autocomb/releases)
+2. Download the [latest release of Autocomber](https://github.com/zappingsbrew/autocomber/releases)
 3. Install the .rmskin
 
 # Usage
@@ -28,9 +28,9 @@ Whenever you install a new application, you can load the main Autocomb skin and 
 
 Autocombs are automatically generated. Every comb is wiped and re-generated whenever you load Autocomb.ini. You're not supposed to edit the generated files by hand.
 
-## You've said you hate launcher skins?
+## You've said you [@reisir] hate launcher skins?
 
-Yes but Autocomb is an interesting project. And I like doing things better than other people :3
+Yes but Autocomb is an interesting project. And I like doing things better than other people :3 -@reisir
 
 # REISIR'S WISHES: 
 
